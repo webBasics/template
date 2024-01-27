@@ -5,5 +5,5 @@ button.addEventListener('click', ()=>{
     if(perm === 'granted'){
       console.log('Hello')
     }
-  }
+  });
 }
